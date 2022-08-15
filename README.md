@@ -1,2 +1,2 @@
 # Api-Edina
-Api desarrollada con el lenguaje de progrmación python y su framework flask
+Api desarrollada con el lenguaje de programación python y su framework flask
